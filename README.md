@@ -5,9 +5,7 @@ A production-grade data engineering pipeline that ingests high-volume e-commerce
 
 ##  What This Project Covers
 
-This pipeline simulates a real e-commerce platform (think: Amazon, Shopify) processing user behavior events. It demonstrates every skill FAANG data engineering interviews test:
-
-
+This pipeline simulates a real e-commerce platform (think: Amazon, Shopify) processing user behavior events.
 
 ## 🏗️ Architecture
 
